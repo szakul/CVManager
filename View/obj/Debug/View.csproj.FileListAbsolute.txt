@@ -1,0 +1,41 @@
+D:\Programowanie\HackathonProject\View\bin\Debug\View.exe.config
+D:\Programowanie\HackathonProject\View\bin\Debug\View.exe
+D:\Programowanie\HackathonProject\View\bin\Debug\View.pdb
+D:\Programowanie\HackathonProject\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\Programowanie\HackathonProject\View\obj\Debug\MainWindow.g.cs
+D:\Programowanie\HackathonProject\View\obj\Debug\App.g.cs
+D:\Programowanie\HackathonProject\View\obj\Debug\View_MarkupCompile.cache
+D:\Programowanie\HackathonProject\View\obj\Debug\View_MarkupCompile.lref
+D:\Programowanie\HackathonProject\View\obj\Debug\MainWindow.baml
+D:\Programowanie\HackathonProject\View\obj\Debug\View.g.resources
+D:\Programowanie\HackathonProject\View\obj\Debug\View.Properties.Resources.resources
+D:\Programowanie\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\Programowanie\HackathonProject\View\obj\Debug\View.exe
+D:\Programowanie\HackathonProject\View\obj\Debug\View.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\View.exe.config
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.exe
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\View.exe
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\View.pdb
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\bin\Debug\System.Data.SQLite.xml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\App.g.cs
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\MainWindow.baml
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.g.resources
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\Stand.g.cs
+C:\Users\Łukasz Kępka\Source\Repos\HackathonProject\View\obj\Debug\Stand.baml
+C:\Users\Łukasz Kępka\Source\Repos\CVManager\View\bin\Debug\View.exe.config
+C:\Users\Łukasz Kępka\Source\Repos\CVManager\View\obj\Debug\View.exe
+C:\Users\Łukasz Kępka\Source\Repos\CVManager\View\obj\Debug\View.pdb
